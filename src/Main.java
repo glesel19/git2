@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-          System.out.println("Hello World");
-          System.out.println("Endri ca kena me ba");
+         rrethi.Rrethor zylinder = new rrethi.Rrethor(5, 10);
+        System.out.println("Volumen: " + zylinder.calcVolume());
     }
 }
