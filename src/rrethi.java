@@ -25,8 +25,7 @@ public class rrethi {
         }
 
         // Hauptmethode zum Testen
-        public static void main(String[] args) {
-            Rrethor zylinder = new Rrethor(5, 10);
-            System.out.println("Volumen: " + zylinder.calcVolume());
-        }
+
+
+
 }

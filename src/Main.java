@@ -4,10 +4,5 @@ public class Main {
     public static void main(String[] args) {
           System.out.println("Hello World");
           System.out.println("Endri ca kena me ba");
-        FuenfseitenPyramide pyramide = new FuenfseitenPyramide(10, 5);
-
-        System.out.println("Seitenlänge: " + pyramide.getSeitenlaenge());
-        System.out.println("Höhe: " + pyramide.getHoehe());
-        System.out.println("Volumen: " + pyramide.calcVolumen());
     }
 }
